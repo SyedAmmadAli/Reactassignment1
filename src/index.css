@@ -7,3 +7,9 @@
     min-height: 80px !important;
 }
 
+.carousel-caption{
+
+    bottom: initial;
+    top: 58%;
+    transform: translateY(-50%);
+}

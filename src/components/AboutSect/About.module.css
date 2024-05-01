@@ -1,0 +1,10 @@
+
+
+
+.aboutwrapper{
+    background-color: black;
+    height: 20vh;
+    background-image: url('../../assets/aboutwrapper.png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
