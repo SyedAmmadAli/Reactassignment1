@@ -3,8 +3,25 @@
 
 .aboutwrapper{
     background-color: black;
-    height: 20vh;
-    background-image: url('../../assets/aboutwrapper.png');
-    background-repeat: no-repeat;
-    background-position: right;
+    
+}
+
+.aboutcontent{
+    padding-top: 120px;
+}
+
+.aboutpic{
+    position: absolute;
+    right: 0;
+}
+
+.head{
+
+    color: #dd4242 !important;
+}
+
+.about_right{
+
+    height: 460px;
+    /* background-color: #dd4242; */
 }

@@ -1,11 +1,14 @@
 import { AboutSect } from "./components/AboutSect"
 import { HeroSection } from "./components/HeroSection"
 import { Navbar } from "./components/Navbar"
+import { Service_Sect } from "./components/ServiceSec"
 
 
 
 function App() {
  
+
+
 
   return (
     <>
@@ -13,6 +16,7 @@ function App() {
      <Navbar/>
      <HeroSection/>
      <AboutSect/>
+     <Service_Sect/>
 
 
     </>

@@ -13,3 +13,12 @@
     top: 58%;
     transform: translateY(-50%);
 }
+
+.about_sec{
+    height: 95vh;
+    background-color: black;
+}
+
+.service_sect{
+    height: 90vh;
+}
