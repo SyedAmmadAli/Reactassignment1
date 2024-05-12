@@ -1,11 +1,27 @@
-
 /* 
 .service_sect{
     padding-top: 120px;
 } */
 
 
-.head{
+.head {
 
     color: #dd4242 !important;
+}
+
+.card_head {
+
+    font-size: 250px;
+    color: white;
+    -webkit-text-stroke-width: 9px;
+    -webkit-text-stroke-color: #2b31bd;
+}
+
+.card_Head_Box {
+
+    /* background-color: aqua; */
+    /* width: 300px; */
+    height: 220px;
+    margin-top: 0px;
+    overflow: hidden;
 }

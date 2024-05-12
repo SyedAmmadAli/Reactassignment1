@@ -1,0 +1,27 @@
+
+/* .accordian_content{
+
+    display: flex;
+} */
+
+.accordion-button{
+    color: #dd4242;
+}
+
+.parag{
+    color: #dd4242;
+}
+
+.accordionpic{
+    position: absolute;
+    right: 30px;
+  
+}
+
+.head{
+    color: #dd4242 !important;
+}
+
+.accor_img{
+    margin-top: 90px ;
+}

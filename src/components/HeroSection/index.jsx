@@ -16,7 +16,7 @@ export const HeroSection = () => {
                 <img src={slider} className="d-block w-100" alt="..."/>
                 <div className="carousel-caption d-block ">
                     <h2 className="text-light display-2 fw-medium">ACHIEVE YOUR</h2>
-                    <h2 className={`${styles.heading} text-light display-2 fw-medium`}>"BUSINESS GOALS"</h2>
+                    <h2 className={`${styles.heading} text-light display-2  fw-medium`}>"BUSINESS GOALS"</h2>
                 </div>
             </div>
             <div className="carousel-item" data-bs-interval="2000">
