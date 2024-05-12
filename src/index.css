@@ -261,3 +261,42 @@ form {
     }
    
   }
+
+
+  @media only screen and (max-width: 350px) {
+    .about_sec {
+     height: 185vh !important;
+    }
+  
+    .about_right h1 {
+      width: 100%;
+    }
+
+    .about_Sect h2 {
+      margin-top: 50px;
+    }
+
+    .service_sect{
+      height: 115vh;
+    }
+
+    .accordian_Sect {
+      height: 125vh;
+      background-color: black;
+  }
+
+    .contact-wrapper {
+     
+      height: 110vh;
+    }
+
+    .footlinks{
+      display: flex;
+      flex-direction: column;
+    }
+
+    .footlinks a{
+      margin-top: 10px;
+    }
+
+  }
